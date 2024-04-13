@@ -1,0 +1,1 @@
+# regador_de_planta_com_temporizador
